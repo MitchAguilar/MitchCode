@@ -99,4 +99,4 @@ window.onload = function() {
 };
 
 // Big Word Array
-words = [ "Eres","increible","Stefa"];
+words = [ "Eres","increible","Luisa","Te amo"];
